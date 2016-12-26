@@ -67,6 +67,10 @@
       <Project>{f95e9d71-10b0-4c3f-9434-faa0b66fb2c0}</Project>
       <Name>MT.CSGPortal.DAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MT.CSGPortal.DBPackage\MT.CSGPortal.DBPackage\MT.CSGPortal.DBPackage.sqlproj">
+      <Project>{243472cf-242d-4340-b54f-fc3ead4587df}</Project>
+      <Name>MT.CSGPortal.DBPackage</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MT.CSGPortal.Entities\MT.CSGPortal.Entities.csproj">
       <Project>{138e7f8f-c0d9-4520-a931-7930cdfb379d}</Project>
       <Name>MT.CSGPortal.Entities</Name>
