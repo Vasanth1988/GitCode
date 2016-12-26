@@ -134,10 +134,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="MT.CSGPortal.DBPackage.publish.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>DoNotCopy</CopyToOutputDirectory>
     </None>
     <None Include="Snapshots\MT.CSGPortal.DBPackage.dacpac">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>DoNotCopy</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>
